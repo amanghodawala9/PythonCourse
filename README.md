@@ -5,6 +5,10 @@
 [![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/amanghodawala9/PythonCourse/pulls)
 
+<p align="center">
+  <img src="./assets/course-overview.png" alt="Python Mastery Complete Learning Roadmap" width="100%">
+</p>
+
 Welcome to **Python Mastery**, a complete, production-oriented curriculum designed to take you from writing your first line of Python to mastering advanced software engineering concepts, asynchronous concurrency, and modern Python tooling.
 
 Every module is packed with **in-depth theory**, **real-world examples**, **common pitfalls**, **practice questions with solutions**, and a **hands-on capstone activity**.
